@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://TarasNetrebko.github.io/FSS_FilmProject",
+  "homepage": "https://olgabezrukova8.github.io/FSS-filmoteka-project/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /FSS_FilmProject/"
+    "build": "parcel build src/*.html --public-url /FSS-filmoteka-project/"
   },
   "repository": {
     "type": "git",
